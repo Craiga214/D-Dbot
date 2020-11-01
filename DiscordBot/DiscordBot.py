@@ -6,7 +6,7 @@ import asyncio
 import os
 from dotenv import load_dotenv
 
-TOKEN = 'NzI3MTEyMjQ4OTQxNzQwMDkz.Xxh1Uw.BcAEC_b9EwGlrZXILF9rhf_TeLw'
+#TOKEN = Token goes here
 client = commands.Bot(command_prefix  = '>')
 
 alarm_time = '18:03'#24hrs
